@@ -1,0 +1,16 @@
+/home/ana-carla/revisao/bin/Debug/net5.0/revisao
+/home/ana-carla/revisao/bin/Debug/net5.0/revisao.deps.json
+/home/ana-carla/revisao/bin/Debug/net5.0/revisao.runtimeconfig.json
+/home/ana-carla/revisao/bin/Debug/net5.0/revisao.runtimeconfig.dev.json
+/home/ana-carla/revisao/bin/Debug/net5.0/revisao.dll
+/home/ana-carla/revisao/bin/Debug/net5.0/ref/revisao.dll
+/home/ana-carla/revisao/bin/Debug/net5.0/revisao.pdb
+/home/ana-carla/revisao/obj/Debug/net5.0/revisao.csprojAssemblyReference.cache
+/home/ana-carla/revisao/obj/Debug/net5.0/revisao.GeneratedMSBuildEditorConfig.editorconfig
+/home/ana-carla/revisao/obj/Debug/net5.0/revisao.AssemblyInfoInputs.cache
+/home/ana-carla/revisao/obj/Debug/net5.0/revisao.AssemblyInfo.cs
+/home/ana-carla/revisao/obj/Debug/net5.0/revisao.csproj.CoreCompileInputs.cache
+/home/ana-carla/revisao/obj/Debug/net5.0/revisao.dll
+/home/ana-carla/revisao/obj/Debug/net5.0/ref/revisao.dll
+/home/ana-carla/revisao/obj/Debug/net5.0/revisao.pdb
+/home/ana-carla/revisao/obj/Debug/net5.0/revisao.genruntimeconfig.cache
